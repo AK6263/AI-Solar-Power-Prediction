@@ -1,2 +1,6 @@
 # AI-Solar-Power-Prediction
-Using Artificial Intelligence to predict the solar power output.
+
+Please check `Final_Submission.ipynb` for our final submission code.
+
+The file `Shell AI Pitch_final.pptx` contains the Pitch of our Level 1 Submission.
+
